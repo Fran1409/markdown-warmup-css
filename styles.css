@@ -34,3 +34,16 @@ table, th, td {
     border: 1px solid black;
     text-align: center;
   }
+
+  a:link, a:visited {
+    background-color:#7d5a5a;
+    color: #faf2f2;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:#7d5a5ac5;
+  }
